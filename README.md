@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satyam Verma.
-- 👀 I’m interested in Quantum Computing, communication, and Quantum Optics.
-- 🌱 I’m currently learning Superconducting qubits design and calibration.
+- 👀 I’m interested in Quantum Computing, Communication, Algorithms and Quantum Optics.
+- 🌱 I’m currently learning Superconducting Qubit Design and Calibration.
 - 💞️ I’m looking to collaborate on any project related to the area mentioned above.
 - 📫 How to reach me: vermasatyam137@gmail.com
 - 
